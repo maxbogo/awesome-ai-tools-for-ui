@@ -25,8 +25,16 @@ A curated list of awesome AI tools(skills, MCP, apps) to build beautiful UI/UX.
 - https://github.com/21st-dev/magic-mcp
 
 Not an AI tools, but worth mentioning:
-- 
+- https://arcade.pirillo.com/fontcrafter.html?utm_source=awesome-ai-tools-for-ui
+- https://magecdn.com/tools/svg-loaders
+- https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/
+- https://www.realtimecolors.com
 
 Not tools but interesting resources:
 - https://lawsofux.com/
 - https://www.userinterface.wiki/
+- https://craftwork.design/curated/websites/
+- https://www.shapeof.ai/
+
+
+ADD tracking to links utm_source=awesome-ai-tools-for-ui
