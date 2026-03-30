@@ -43,6 +43,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 > Model Context Protocol servers that add UI generation capabilities to AI editors.
 
 - [Magic MCP](https://github.com/21st-dev/magic-mcp?utm_source=awesome-ai-tools-for-ui) - Generate UI components from text prompts inside Cursor, Windsurf, and VSCode.
+- [UI Layouts MCP](https://www.ui-layouts.com/mcp?utm_source=awesome-ai-tools-for-ui) - Lets AI editors search and use real UI components instead of guessing the code.
 
 ## Design Tools
 
