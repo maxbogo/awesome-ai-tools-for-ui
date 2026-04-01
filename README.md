@@ -24,7 +24,6 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Anthropic Frontend Design Skill](https://github.com/anthropics/skills/tree/main/skills/frontend-design?utm_source=awesome-ai-tools-for-ui) - Teaches Claude to build frontend UIs with strong visual direction instead of generic defaults.
 - [shadcn/ui Skills](https://ui.shadcn.com/docs/skills?utm_source=awesome-ai-tools-for-ui) - Gives your AI assistant context about your shadcn/ui setup so it generates correct component code.
 - [Web Design Guidelines Skill](https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md?utm_source=awesome-ai-tools-for-ui) - Checks your UI code against web design best practices and flags violations.
-- ⭐️ [YC Web Design Strategy Skill](https://github.com/maxbogo/yc-web-design-strategy-skill?utm_source=awesome-ai-tools-for-ui) - Web design and strategy principles from YC's Design Review series, packaged as a skill.
 - ⭐️ [Taste Skill](https://www.tasteskill.dev/?utm_source=awesome-ai-tools-for-ui) - Open-source SKILL.md that stops AI agents from producing cookie-cutter frontend designs.
 
 ## Apps
