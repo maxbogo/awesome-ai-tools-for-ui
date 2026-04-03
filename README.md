@@ -25,6 +25,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [shadcn/ui Skills](https://ui.shadcn.com/docs/skills?utm_source=awesome-ai-tools-for-ui) - Gives your AI assistant context about your shadcn/ui setup so it generates correct component code.
 - [Web Design Guidelines Skill](https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md?utm_source=awesome-ai-tools-for-ui) - Checks your UI code against web design best practices and flags violations.
 - ⭐️ [Taste Skill](https://www.tasteskill.dev/?utm_source=awesome-ai-tools-for-ui) - Open-source SKILL.md that stops AI agents from producing cookie-cutter frontend designs.
+- ⭐️ [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md/?utm_source=awesome-ai-tools-for-ui) - Not a skill but a curated collection of DESIGN.md files inspired by developer focused websites
 
 ## Apps
 
