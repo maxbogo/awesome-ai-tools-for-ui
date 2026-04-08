@@ -37,6 +37,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - ⭐️ [Variant](https://variant.com/?utm_source=awesome-ai-tools-for-ui) - Scroll through AI-generated design variations for your ideas.
 - [Stitch by Google](https://stitch.withgoogle.com/?utm_source=awesome-ai-tools-for-ui) - Google's AI design tool for creating UIs from prompts.
 - [Khroma](https://www.khroma.co/?utm_source=awesome-ai-tools-for-ui) - Learns your color preferences and generates palettes you can search and save.
+- [AI Website Cloner](https://github.com/JCodesMore/ai-website-cloner-template/?utm_source=awesome-ai-tools-for-ui) - Reusable template for reverse-engineering any website
 
 ## MCP Servers
 
