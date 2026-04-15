@@ -25,6 +25,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [shadcn/ui Skills](https://ui.shadcn.com/docs/skills?utm_source=awesome-ai-tools-for-ui) - Gives your AI assistant context about your shadcn/ui setup so it generates correct component code.
 - [Web Design Guidelines Skill](https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md?utm_source=awesome-ai-tools-for-ui) - Checks your UI code against web design best practices and flags violations.
 - ⭐️ [Taste Skill](https://www.tasteskill.dev/?utm_source=awesome-ai-tools-for-ui) - Open-source SKILL.md that stops AI agents from producing cookie-cutter frontend designs.
+- [Designer Skills Collection](https://github.com/Owl-Listener/designer-skills?utm_source=awesome-ai-tools-for-ui) - Pack of skills and commands — from research to systems, UI, interaction, and delivery.
+- [TypeUI Design Skills](https://www.typeui.sh/design-skills?utm_source=awesome-ai-tools-for-ui) - Collection of UI designs with downloadable `skill.md` files.
 - [YC Web Design Strategy Skill](https://github.com/maxbogo/yc-web-design-strategy-skill?utm_source=awesome-ai-tools-for-ui) - Web design and strategy principles from YC's Design Review series, packaged as a skill.
 - ⭐️ [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md/?utm_source=awesome-ai-tools-for-ui) - Not a skill but a curated collection of DESIGN.md files inspired by developer focused websites
 
@@ -39,6 +41,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Stitch by Google](https://stitch.withgoogle.com/?utm_source=awesome-ai-tools-for-ui) - Google's AI design tool for creating UIs from prompts.
 - [Khroma](https://www.khroma.co/?utm_source=awesome-ai-tools-for-ui) - Learns your color preferences and generates palettes you can search and save.
 - [AI Website Cloner](https://github.com/JCodesMore/ai-website-cloner-template/?utm_source=awesome-ai-tools-for-ui) - Reusable template for reverse-engineering any website
+- [Noyzzi](https://noyzzi.com/?utm_source=awesome-ai-tools-for-ui) - Growing collection of interactive designs with prompts you can copy and adapt.
+
 
 ## MCP Servers
 
