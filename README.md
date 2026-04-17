@@ -1,6 +1,27 @@
-# Awesome AI Tools for UI
+<a href="https://github.com/maxbogo/awesome-ai-tools-for-ui">
+     <img width="1500" alt="Awesome AI Tools for UI banner" src="assets/readme-banner.png" />
+</a>
 
-A curated list of awesome AI tools (skills, MCP servers, apps) to build beautiful UI/UX.
+
+<br/>
+<br/>
+
+<div align="center">
+    <strong>Curated collection of awesome AI tools for building beautiful UI and UX.</strong>
+    <br />
+    <br />
+
+</div>
+
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Tool Count](https://img.shields.io/badge/Tool%20count-24-10b981?style=classic)
+[![Last Update](https://img.shields.io/github/last-commit/maxbogo/awesome-ai-tools-for-ui?label=Last%20update&style=classic)](https://github.com/maxbogo/awesome-ai-tools-for-ui)
+
+</div>
+
+# Awesome AI Tools for UI
 
 ⭐️ = Editor's Choice
 
