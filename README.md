@@ -43,8 +43,10 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [UserInterface.wiki Skill](https://www.userinterface.wiki/skill?utm_source=awesome-ai-tools-for-ui) - 152 UI design rules packaged as a skill file for coding assistants.
 - [UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill?utm_source=awesome-ai-tools-for-ui) - Generates design systems (colors, typography, layouts) based on your project type and framework.
 - [Anthropic Frontend Design Skill](https://github.com/anthropics/skills/tree/main/skills/frontend-design?utm_source=awesome-ai-tools-for-ui) - Teaches Claude to build frontend UIs with strong visual direction instead of generic defaults.
+- [Make Interfaces Feel Better](https://github.com/jakubkrehel/make-interfaces-feel-better?utm_source=awesome-ai-tools-for-ui) - Agent skill that teaches small design engineering details that compound into better interfaces.
 - [shadcn/ui Skills](https://ui.shadcn.com/docs/skills?utm_source=awesome-ai-tools-for-ui) - Gives your AI assistant context about your shadcn/ui setup so it generates correct component code.
 - [Web Design Guidelines Skill](https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md?utm_source=awesome-ai-tools-for-ui) - Checks your UI code against web design best practices and flags violations.
+- [Emil Kowalski Skill](https://github.com/emilkowalski/skill?utm_source=awesome-ai-tools-for-ui) - Skill file based on Emil Kowalski's UI articles, aimed at designers and engineers building better interfaces.
 - ⭐️ [Taste Skill](https://www.tasteskill.dev/?utm_source=awesome-ai-tools-for-ui) - Open-source SKILL.md that stops AI agents from producing cookie-cutter frontend designs.
 - [Designer Skills Collection](https://github.com/Owl-Listener/designer-skills?utm_source=awesome-ai-tools-for-ui) - Pack of skills and commands — from research to systems, UI, interaction, and delivery.
 - [TypeUI Design Skills](https://www.typeui.sh/design-skills?utm_source=awesome-ai-tools-for-ui) - Collection of UI designs with downloadable `skill.md` files.
