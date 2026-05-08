@@ -81,6 +81,9 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [SVG Loaders](https://magecdn.com/tools/svg-loaders?utm_source=awesome-ai-tools-for-ui) - 100+ open-source animated SVG loading spinners (MIT).
 - [SVG Backgrounds](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/?utm_source=awesome-ai-tools-for-ui) - Free SVG backgrounds and patterns you can customize.
 - [Realtime Colors](https://www.realtimecolors.com/?utm_source=awesome-ai-tools-for-ui) - Preview color palettes and typography on a live website mockup.
+- [TinyTools Color Palette Generator](https://tinytools-smoky.vercel.app/?utm_source=awesome-ai-tools-for-ui) - Generate harmonious color palettes (complementary, analogous, triadic) with hex/RGB/HSL output. Free, runs in the browser, no signup.
+- [TinyTools Favicon Generator](https://tinytools-smoky.vercel.app/?utm_source=awesome-ai-tools-for-ui) - Convert any image into a multi-resolution favicon pack (16×16, 32×32, 180×180, 192×192, 512×512) with web manifest. Browser-based, no upload to a server.
+- [TinyTools OG Image Generator](https://tinytools-smoky.vercel.app/?utm_source=awesome-ai-tools-for-ui) - Generate Open Graph / Twitter card images (1200×630) with custom typography, gradients, and layouts. Exports PNG, no signup.
 
 ## Resources
 
