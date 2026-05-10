@@ -80,6 +80,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Lazyweb](https://www.lazyweb.com/?utm_source=awesome-ai-tools-for-ui) - MCP server and skills that help agents research real app screens before designing UI.
 - [Design and Refine](https://github.com/0xdesign/design-plugin?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin for generating, comparing, and refining multiple UI variations in your codebase.
 - [Interface Design](https://github.com/Dammyjay93/interface-design?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin for remembering interface decisions across sessions and keeping UI systems consistent.
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ## Design Tools
 
