@@ -85,6 +85,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [TinyTools Favicon Generator](https://tinytools-smoky.vercel.app/?utm_source=awesome-ai-tools-for-ui) - Convert any image into a multi-resolution favicon pack (16×16, 32×32, 180×180, 192×192, 512×512) with web manifest. Browser-based, no upload to a server.
 - [TinyTools OG Image Generator](https://tinytools-smoky.vercel.app/?utm_source=awesome-ai-tools-for-ui) - Generate Open Graph / Twitter card images (1200×630) with custom typography, gradients, and layouts. Exports PNG, no signup.
 
+- [TinyTools](https://tinytools-smoky.vercel.app/?utm_source=awesome-ai-tools-for-ui) - Free browser-based utility kit: favicon generator, OG image generator, color palette generator, and AI background remover (runs locally in-browser via WASM — no server upload). No signup, open source.
+
 ## Resources
 
 > Learning materials, design references, and inspiration for UI/UX.
