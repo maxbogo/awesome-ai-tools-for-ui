@@ -55,6 +55,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Bencium Marketplace](https://github.com/bencium/bencium-marketplace?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin marketplace with skills for design, architecture, productivity, typography, and code review.
 - [Three.js Skills](https://github.com/CloudAI-X/threejs-skills?utm_source=awesome-ai-tools-for-ui) - Collection of Three.js skills covering scenes, geometry, lighting, shaders, loaders, animation, and interaction.
 - [Awesome DESIGN.md](https://github.com/VoltAgent/awesome-design-md/?utm_source=awesome-ai-tools-for-ui) - Curated collection of DESIGN.md files inspired by developer-focused websites.
+- [ux-skill](https://github.com/Laith0003/ux-skill) - Design-intelligence engine for 17 AI coding tools. Runs a 152-rule anti-slop linter, applies 160 brand specs, and generates frontend code from a structured brief. Deterministic, offline, MIT.
 
 ## Apps
 
