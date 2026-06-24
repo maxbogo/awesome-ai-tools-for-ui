@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tool Count](https://img.shields.io/badge/Tool%20count-37-10b981?style=classic)
+![Tool Count](https://img.shields.io/badge/Tool%20count-38-10b981?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/maxbogo/awesome-ai-tools-for-ui?label=Last%20update&style=classic)](https://github.com/maxbogo/awesome-ai-tools-for-ui)
 
 </div>
@@ -65,6 +65,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Superdesign](https://app.superdesign.dev/?utm_source=awesome-ai-tools-for-ui) - AI design tool for generating interfaces in the browser.
 - ⭐️ [Variant](https://variant.com/?utm_source=awesome-ai-tools-for-ui) - Scroll through AI-generated design variations for your ideas.
 - [Stitch by Google](https://stitch.withgoogle.com/?utm_source=awesome-ai-tools-for-ui) - Google's AI design tool for creating UIs from prompts.
+- [Daisy](https://daisy.now/?utm_source=awesome-ai-tools-for-ui) - Turn one prompt into a full set of editable mobile app screens, then export to Figma, code, or a coding agent via its skill and MCP.
 - [Open Design](https://github.com/nexu-io/open-design?utm_source=awesome-ai-tools-for-ui) - Local-first, open-source alternative to Claude Design for generating prototypes, slides, images, and videos.
 - [Khroma](https://www.khroma.co/?utm_source=awesome-ai-tools-for-ui) - Learns your color preferences and generates palettes you can search and save.
 - [Noyzzi](https://noyzzi.com/?utm_source=awesome-ai-tools-for-ui) - Growing collection of interactive designs with prompts you can copy and adapt.
