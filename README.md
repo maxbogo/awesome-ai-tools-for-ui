@@ -62,6 +62,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 - ⭐️ [21st.dev](https://21st.dev/home?utm_source=awesome-ai-tools-for-ui) - UI component library and templates for building AI-powered products.
 - [AI Website Cloner](https://github.com/JCodesMore/ai-website-cloner-template?utm_source=awesome-ai-tools-for-ui) - Clone any website into a Next.js codebase with one command using AI agents.
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [Superdesign](https://app.superdesign.dev/?utm_source=awesome-ai-tools-for-ui) - AI design tool for generating interfaces in the browser.
 - ⭐️ [Variant](https://variant.com/?utm_source=awesome-ai-tools-for-ui) - Scroll through AI-generated design variations for your ideas.
 - [Stitch by Google](https://stitch.withgoogle.com/?utm_source=awesome-ai-tools-for-ui) - Google's AI design tool for creating UIs from prompts.
