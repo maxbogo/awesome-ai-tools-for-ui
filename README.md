@@ -1,4 +1,6 @@
 <a href="https://github.com/maxbogo/awesome-ai-tools-for-ui">
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
      <img width="1500" alt="Awesome AI Tools for UI banner" src="assets/readme-banner.png" />
 </a>
 
