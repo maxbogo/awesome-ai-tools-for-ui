@@ -60,6 +60,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Huashu Design](https://github.com/alchaincyf/huashu-design?utm_source=awesome-ai-tools-for-ui) - HTML-native design skill for generating prototypes, slides, animations, and design reviews from agent prompts.
 - [Nothing Design Skill](https://github.com/dominikmartn/nothing-design-skill?utm_source=awesome-ai-tools-for-ui) - Claude Code skill for producing Nothing-inspired monochrome, typographic, industrial UI.
 - [Hallmark](https://github.com/nutlope/hallmark?utm_source=awesome-ai-tools-for-ui) - Design skill for Claude Code, Cursor, and Codex that audits and generates UI against anti-slop design gates.
+- [UIZZE UI Research](https://github.com/aislon/uizze-mcp/tree/main/skills/uizze-ui-research?utm_source=awesome-ai-tools-for-ui) - Real UI research, design contracts, and anti-slop validation for coding agents.
 - [Material Design 3 Skill](https://github.com/hamen/material-3-skill?utm_source=awesome-ai-tools-for-ui) - Portable Material Design 3 skill covering tokens, theming, 30+ components, responsive layout, and MD3 audits.
 
 ## Apps
