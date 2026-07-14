@@ -87,6 +87,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Lazyweb](https://www.lazyweb.com/?utm_source=awesome-ai-tools-for-ui) - MCP server and skills that help agents research real app screens before designing UI.
 - [Design and Refine](https://github.com/0xdesign/design-plugin?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin for generating, comparing, and refining multiple UI variations in your codebase.
 - [Interface Design](https://github.com/Dammyjay93/interface-design?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin for remembering interface decisions across sessions and keeping UI systems consistent.
+- [UIZZE](https://uizze.com/?view=agent&utm_source=github&utm_medium=directory&utm_campaign=github_awesome_ai_tools_for_ui_v1&utm_content=mcp_entry) - Helps Codex avoid generic AI UI by grounding it in real web and iOS references, with design-contract, validation, audit, and critique tools via MCP.
 
 ## Design Tools
 
