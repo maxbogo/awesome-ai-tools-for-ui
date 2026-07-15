@@ -76,6 +76,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Noyzzi](https://noyzzi.com/?utm_source=awesome-ai-tools-for-ui) - Growing collection of interactive designs with prompts you can copy and adapt.
 - [Design Resources for AI Agents](https://styles.refero.design/ai-agents/design-resources?utm_source=awesome-ai-tools-for-ui) - Curated directory of DESIGN.md resources and design references for AI agents.
 - [prompt-kit](https://www.prompt-kit.com/?utm_source=awesome-ai-tools-for-ui) - Accessible, customizable component primitives for AI interfaces, including prompt inputs, messages, reasoning, and tool views.
+- [LocalMode](https://localmode.ai?utm_source=awesome-ai-tools-for-ui) - Local-first AI UI toolkit: 107 shadcn components and 36 blocks (chat, RAG, transcription, vision) that run entirely in the browser with no backend.
 
 
 ## MCP Servers & Plugins
