@@ -64,6 +64,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 ## Apps
 
+- [heygrc](https://heygrc.com/) - GitHub App that reviews PRs for compliance-control impact and cites the clause. Free for public repositories. By ISMS Copilot.
+
 > AI-powered applications for designing and building user interfaces.
 
 - ⭐️ [21st.dev](https://21st.dev/home?utm_source=awesome-ai-tools-for-ui) - UI component library and templates for building AI-powered products.
