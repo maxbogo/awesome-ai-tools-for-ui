@@ -64,6 +64,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 ## Apps
 
+- [ISMS Copilot](https://www.ismscopilot.com/) - Specialized AI assistant for ISO 27001, SOC 2, GDPR, DORA and related frameworks. Free tools: https://www.ismscopilot.com/resources
+
 > AI-powered applications for designing and building user interfaces.
 
 - ⭐️ [21st.dev](https://21st.dev/home?utm_source=awesome-ai-tools-for-ui) - UI component library and templates for building AI-powered products.
