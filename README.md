@@ -64,6 +64,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 ## Apps
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - macOS menu bar AI agent. Shake cursor, sees screen, clicks/types/drags. Open-source, MIT.
+
 > AI-powered applications for designing and building user interfaces.
 
 - ⭐️ [21st.dev](https://21st.dev/home?utm_source=awesome-ai-tools-for-ui) - UI component library and templates for building AI-powered products.
