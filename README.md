@@ -66,6 +66,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 > AI-powered applications for designing and building user interfaces.
 
+- [agent-qa](https://github.com/vostride/agent-qa?utm_source=awesome-ai-tools-for-ui) - Open-source self-improving QA agent for natural-language web and mobile UI tests with memory and self-healing execution.
 - ⭐️ [21st.dev](https://21st.dev/home?utm_source=awesome-ai-tools-for-ui) - UI component library and templates for building AI-powered products.
 - [AI Website Cloner](https://github.com/JCodesMore/ai-website-cloner-template?utm_source=awesome-ai-tools-for-ui) - Clone any website into a Next.js codebase with one command using AI agents.
 - [Superdesign](https://app.superdesign.dev/?utm_source=awesome-ai-tools-for-ui) - AI design tool for generating interfaces in the browser.
