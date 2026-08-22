@@ -62,6 +62,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Hallmark](https://github.com/nutlope/hallmark?utm_source=awesome-ai-tools-for-ui) - Design skill for Claude Code, Cursor, and Codex that audits and generates UI against anti-slop design gates.
 - [Material Design 3 Skill](https://github.com/hamen/material-3-skill?utm_source=awesome-ai-tools-for-ui) - Portable Material Design 3 skill covering tokens, theming, 30+ components, responsive layout, and MD3 audits.
 - [UIZZE](https://uizze.com) - AI-powered design research for better interfaces.
+- [Curio](https://designbycurio.com/?utm_source=awesome-ai-tools-for-ui) - Library of 1,000+ real design styles (Bauhaus, Memphis, brand and cultural traditions) as DESIGN.md token specs; hand one to Claude Code, Cursor or ChatGPT via a share link or MCP.
 
 ## Apps
 
