@@ -63,6 +63,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Material Design 3 Skill](https://github.com/hamen/material-3-skill?utm_source=awesome-ai-tools-for-ui) - Portable Material Design 3 skill covering tokens, theming, 30+ components, responsive layout, and MD3 audits.
 
 ## Apps
+- [Freeflow](https://github.com/jayamitkatariya/Freeflow) - Voice dictation with screen context you point at. Hold ⌥ to record, circle to capture screenshots, local Parakeet transcription.
 
 > AI-powered applications for designing and building user interfaces.
 
