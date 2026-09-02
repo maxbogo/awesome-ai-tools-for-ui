@@ -78,6 +78,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [prompt-kit](https://www.prompt-kit.com/?utm_source=awesome-ai-tools-for-ui) - Accessible, customizable component primitives for AI interfaces, including prompt inputs, messages, reasoning, and tool views.
 
 
+- [Lunalisa](https://luna-lisa.art) - Browser-based AI image workspace for generating and refining product visuals with prompts and permitted reference images.
+
 ## MCP Servers & Plugins
 
 > Model Context Protocol servers and plugins that add UI research and design workflows to AI editors.
