@@ -83,6 +83,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 > Model Context Protocol servers and plugins that add UI research and design workflows to AI editors.
 
 - [Magic MCP](https://github.com/21st-dev/magic-mcp?utm_source=awesome-ai-tools-for-ui) - Generate UI components from text prompts inside Cursor, Windsurf, and VSCode.
+- [Motomarks](https://motomarks.io/docs/mcp) - Hosted MCP server for looking up automotive brands and inserting normalized logo CDN URLs from an AI editor.
 - [UI Layouts MCP](https://www.ui-layouts.com/mcp?utm_source=awesome-ai-tools-for-ui) - Lets AI editors search and use real UI components instead of guessing the code.
 - [Lazyweb](https://www.lazyweb.com/?utm_source=awesome-ai-tools-for-ui) - MCP server and skills that help agents research real app screens before designing UI.
 - [Design and Refine](https://github.com/0xdesign/design-plugin?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin for generating, comparing, and refining multiple UI variations in your codebase.
