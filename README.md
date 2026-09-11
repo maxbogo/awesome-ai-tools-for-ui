@@ -113,4 +113,5 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Craftwork](https://craftwork.design/curated/websites/?utm_source=awesome-ai-tools-for-ui) - Curated website designs and premium design resources (UI kits, illustrations, mockups).
 - [Zajno Motion](https://motion.zajno.com/?utm_source=awesome-ai-tools-for-ui) - Interactive collection of motion-heavy web experiences for animation and interaction inspiration.
 - ⭐️ [The Shape of AI](https://www.shapeof.ai/?utm_source=awesome-ai-tools-for-ui) - UX patterns for designing interfaces that use AI.
+- [aiux.courses](https://aiux.courses?utm_source=awesome-ai-tools-for-ui) - Independently curated AI UX sources and courses for working designers (patterns, papers, people, paid paths).
 - [Delightful frontend](https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4) - Practical techniques for steering AI toward polished frontend designs.
