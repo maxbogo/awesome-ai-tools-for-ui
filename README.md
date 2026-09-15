@@ -114,3 +114,4 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Zajno Motion](https://motion.zajno.com/?utm_source=awesome-ai-tools-for-ui) - Interactive collection of motion-heavy web experiences for animation and interaction inspiration.
 - ⭐️ [The Shape of AI](https://www.shapeof.ai/?utm_source=awesome-ai-tools-for-ui) - UX patterns for designing interfaces that use AI.
 - [Delightful frontend](https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4) - Practical techniques for steering AI toward polished frontend designs.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
