@@ -61,7 +61,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Nothing Design Skill](https://github.com/dominikmartn/nothing-design-skill?utm_source=awesome-ai-tools-for-ui) - Claude Code skill for producing Nothing-inspired monochrome, typographic, industrial UI.
 - [Hallmark](https://github.com/nutlope/hallmark?utm_source=awesome-ai-tools-for-ui) - Design skill for Claude Code, Cursor, and Codex that audits and generates UI against anti-slop design gates.
 - [Material Design 3 Skill](https://github.com/hamen/material-3-skill?utm_source=awesome-ai-tools-for-ui) - Portable Material Design 3 skill covering tokens, theming, 30+ components, responsive layout, and MD3 audits.
-- [UIZZE anti-ui-slop Skill](https://uizze.com/.well-known/agent-skills/anti-ui-slop/SKILL.md?utm_source=awesome-ai-tools-for-ui) - Free MIT Skill for coding agents with a design contract, required UI states, anti-slop review, and a hard finish gate. Optional authenticated [UIZZE MCP](https://uizze.com/docs?utm_source=awesome-ai-tools-for-ui) provides UI references and materials grounded in 800,000+ real web and iOS screens. [Skill source](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop?utm_source=awesome-ai-tools-for-ui).
+- [UIZZE](https://uizze.com) - AI-powered design research for better interfaces.
 
 ## Apps
 
