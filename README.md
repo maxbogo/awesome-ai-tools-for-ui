@@ -63,8 +63,6 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Nothing Design Skill](https://github.com/dominikmartn/nothing-design-skill?utm_source=awesome-ai-tools-for-ui) - Claude Code skill for producing Nothing-inspired monochrome, typographic, industrial UI.
 - [Hallmark](https://github.com/nutlope/hallmark?utm_source=awesome-ai-tools-for-ui) - Design skill for Claude Code, Cursor, and Codex that audits and generates UI against anti-slop design gates.
 - [Material Design 3 Skill](https://github.com/hamen/material-3-skill?utm_source=awesome-ai-tools-for-ui) - Portable Material Design 3 skill covering tokens, theming, 30+ components, responsive layout, and MD3 audits.
-- [UIZZE](https://uizze.com) - AI-powered design research for better interfaces.
-- [Curio](https://designbycurio.com/?utm_source=awesome-ai-tools-for-ui) - Library of 1,000+ real design styles (Bauhaus, Memphis, brand and cultural traditions) as DESIGN.md token specs; hand one to Claude Code, Cursor or ChatGPT via a share link or MCP.
 - [Scandinavian Design Skill](https://github.com/ericzakariasson/scandinavian-design?utm_source=awesome-ai-tools-for-ui) - Cursor skill for applying a restrained Scandinavian visual system with monochrome color, sans-serif type, spacing, and product imagery.
 
 ## Apps
@@ -82,6 +80,8 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Design Resources for AI Agents](https://styles.refero.design/ai-agents/design-resources?utm_source=awesome-ai-tools-for-ui) - Curated directory of DESIGN.md resources and design references for AI agents.
 - [prompt-kit](https://www.prompt-kit.com/?utm_source=awesome-ai-tools-for-ui) - Accessible, customizable component primitives for AI interfaces, including prompt inputs, messages, reasoning, and tool views.
 - [Brik](https://brik.space/?utm_source=awesome-ai-tools-for-ui) - Build your own AI-powered design tools for animations, 2D and 3D visuals, text effects, and images, then remix, share, export, and embed them.
+- [UIZZE](https://uizze.com) - AI-powered design research for better interfaces.
+- [Curio](https://designbycurio.com/?utm_source=awesome-ai-tools-for-ui) - Library of 1,000+ real design styles (Bauhaus, Memphis, brand and cultural traditions) as DESIGN.md token specs; hand one to Claude Code, Cursor or ChatGPT via a share link or MCP.
 
 
 ## MCP Servers & Plugins
