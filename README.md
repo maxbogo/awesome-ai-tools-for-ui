@@ -46,7 +46,9 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Make Interfaces Feel Better](https://github.com/jakubkrehel/make-interfaces-feel-better?utm_source=awesome-ai-tools-for-ui) - Agent skill that teaches small design engineering details that compound into better interfaces.
 - [shadcn/ui Skills](https://ui.shadcn.com/docs/skills?utm_source=awesome-ai-tools-for-ui) - Gives your AI assistant context about your shadcn/ui setup so it generates correct component code.
 - [Web Design Guidelines Skill](https://github.com/vercel-labs/agent-skills/blob/main/skills/web-design-guidelines/SKILL.md?utm_source=awesome-ai-tools-for-ui) - Checks your UI code against web design best practices and flags violations.
-- [Emil Kowalski Skill](https://github.com/emilkowalski/skill?utm_source=awesome-ai-tools-for-ui) - Skill file based on Emil Kowalski's UI articles, aimed at designers and engineers building better interfaces.
+- [Emil Kowalski Skills](https://github.com/emilkowalski/skills?utm_source=awesome-ai-tools-for-ui) - Skills for designers and engineers covering animation, motion, and practical interface design.
+- [Unslop Skill](https://github.com/cursor/plugins/blob/main/pstack/skills/unslop/SKILL.md?utm_source=awesome-ai-tools-for-ui) - Removes common AI-generated writing patterns while preserving meaning and tone.
+- [Refactoring UI Skill](https://github.com/s0xDk/refactoring-ui-skill?utm_source=awesome-ai-tools-for-ui) - Claude Code skill applying Refactoring UI rules for spacing, typography, color, hierarchy, and depth.
 - ⭐️ [Taste Skill](https://www.tasteskill.dev/?utm_source=awesome-ai-tools-for-ui) - Open-source SKILL.md that stops AI agents from producing cookie-cutter frontend designs.
 - [Designer Skills Collection](https://github.com/Owl-Listener/designer-skills?utm_source=awesome-ai-tools-for-ui) - Pack of skills and commands — from research to systems, UI, interaction, and delivery.
 - [TypeUI Design Skills](https://www.typeui.sh/design-skills?utm_source=awesome-ai-tools-for-ui) - Collection of UI designs with downloadable `skill.md` files.
@@ -63,6 +65,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Material Design 3 Skill](https://github.com/hamen/material-3-skill?utm_source=awesome-ai-tools-for-ui) - Portable Material Design 3 skill covering tokens, theming, 30+ components, responsive layout, and MD3 audits.
 - [UIZZE](https://uizze.com) - AI-powered design research for better interfaces.
 - [Curio](https://designbycurio.com/?utm_source=awesome-ai-tools-for-ui) - Library of 1,000+ real design styles (Bauhaus, Memphis, brand and cultural traditions) as DESIGN.md token specs; hand one to Claude Code, Cursor or ChatGPT via a share link or MCP.
+- [Scandinavian Design Skill](https://github.com/ericzakariasson/scandinavian-design?utm_source=awesome-ai-tools-for-ui) - Cursor skill for applying a restrained Scandinavian visual system with monochrome color, sans-serif type, spacing, and product imagery.
 
 ## Apps
 
@@ -107,6 +110,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Pryzm](https://www.pryzm.design/?utm_source=awesome-ai-tools-for-ui) - Browser-based visual studio for creating original backgrounds and textures for websites, templates, and designs.
 - [Logosystem](https://logosystem.co/?utm_source=awesome-ai-tools-for-ui) - Curated logo inspiration gallery with 1,200+ static and animated logos.
 - [Ditther](https://www.ditther.com/?utm_source=awesome-ai-tools-for-ui) - Free browser tool for dither, halftone, ASCII, pixel, and video effects.
+- [Book of Shapes](https://bookofshapes.com/?tag=flow&utm_source=awesome-ai-tools-for-ui) - Collection of minimal, generative, and customizable SVG patterns.
 
 ## Resources
 
