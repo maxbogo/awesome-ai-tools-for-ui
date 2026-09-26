@@ -94,6 +94,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Design and Refine](https://github.com/0xdesign/design-plugin?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin for generating, comparing, and refining multiple UI variations in your codebase.
 - [Interface Design](https://github.com/Dammyjay93/interface-design?utm_source=awesome-ai-tools-for-ui) - Claude Code plugin for remembering interface decisions across sessions and keeping UI systems consistent.
 - [AI Canvas](https://aicanvas.me/mcp?utm_source=awesome-ai-tools-for-ui) - MCP server that lets AI editors search an open-source (MIT) registry of animated React components, blocks and design systems and return their shadcn CLI install commands.
+- [UpRes MCP](https://upres.ai?utm_source=awesome-ai-tools-for-ui) - MCP server and CLI for automated high-resolution image and video upscaling (up to 8K) directly inside AI agent workflows.
 
 ## Design Tools
 
