@@ -64,6 +64,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Hallmark](https://github.com/nutlope/hallmark?utm_source=awesome-ai-tools-for-ui) - Design skill for Claude Code, Cursor, and Codex that audits and generates UI against anti-slop design gates.
 - [Material Design 3 Skill](https://github.com/hamen/material-3-skill?utm_source=awesome-ai-tools-for-ui) - Portable Material Design 3 skill covering tokens, theming, 30+ components, responsive layout, and MD3 audits.
 - [Scandinavian Design Skill](https://github.com/ericzakariasson/scandinavian-design?utm_source=awesome-ai-tools-for-ui) - Cursor skill for applying a restrained Scandinavian visual system with monochrome color, sans-serif type, spacing, and product imagery.
+- [OTF UI Design & Component Skills](https://otf-kit.dev/components?utm_source=directory&utm_medium=referral&utm_campaign=first-sale-14d-20261016&utm_content=2026-10-21-awesome-ai-tools-ui-skills) - Agent skills and component primitives for React Native and Expo that teach AI coding assistants consistent design tokens, layout hierarchy, and cross-platform mobile patterns. ([GitHub](https://github.com/otf-kit/skills))
 
 ## Apps
 
