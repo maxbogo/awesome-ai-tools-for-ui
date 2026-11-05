@@ -96,6 +96,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [AI Canvas](https://aicanvas.me/mcp?utm_source=awesome-ai-tools-for-ui) - MCP server that lets AI editors search an open-source (MIT) registry of animated React components, blocks and design systems and return their shadcn CLI install commands.
 - [UI Verify](https://uiverify.ai/?utm_source=awesome-ai-tools-for-ui) - MCP server and skills that let Claude Code, Cursor and Codex see every UI change they make as a before-and-after screenshot diff, using your existing Storybook, Playwright or Vitest tests.
 - [Mobbin](https://github.com/mobbin/skills?utm_source=awesome-ai-tools-for-ui) - Plugin and MCP server for searching real app screens, user flows, and website sections as UI design references.
+- [Betterloop](https://betterloopai.com/?utm_source=awesome-ai-tools-for-ui) - MCP server and script tag that find rage clicks, dead buttons, JS errors and slow pages in real sessions and hand your coding agent a ranked list of UI fixes.
 
 ## Design Tools
 
