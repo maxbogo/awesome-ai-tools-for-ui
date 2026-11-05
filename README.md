@@ -83,6 +83,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [UIZZE](https://uizze.com) - AI-powered design research for better interfaces.
 - [Curio](https://designbycurio.com/?utm_source=awesome-ai-tools-for-ui) - Library of 1,000+ real design styles (Bauhaus, Memphis, brand and cultural traditions) as DESIGN.md token specs; hand one to Claude Code, Cursor or ChatGPT via a share link or MCP.
 
+- [IdeaMade](https://ideamade.ai/) - Build and refine web app interfaces through natural-language requests, with live previews, version history, and publishing.
 
 ## MCP Servers & Plugins
 
