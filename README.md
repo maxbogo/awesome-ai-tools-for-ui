@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tool Count](https://img.shields.io/badge/Tool%20count-66-10b981?style=classic)
+![Tool Count](https://img.shields.io/badge/Tool%20count-67-10b981?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/maxbogo/awesome-ai-tools-for-ui?label=Last%20update&style=classic)](https://github.com/maxbogo/awesome-ai-tools-for-ui)
 
 </div>
@@ -96,6 +96,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [AI Canvas](https://aicanvas.me/mcp?utm_source=awesome-ai-tools-for-ui) - MCP server that lets AI editors search an open-source (MIT) registry of animated React components, blocks and design systems and return their shadcn CLI install commands.
 - [UI Verify](https://uiverify.ai/?utm_source=awesome-ai-tools-for-ui) - MCP server and skills that let Claude Code, Cursor and Codex see every UI change they make as a before-and-after screenshot diff, using your existing Storybook, Playwright or Vitest tests.
 - [Mobbin](https://github.com/mobbin/skills?utm_source=awesome-ai-tools-for-ui) - Plugin and MCP server for searching real app screens, user flows, and website sections as UI design references.
+- [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server?utm_source=awesome-ai-tools-for-ui) - MCP server that lets AI editors pull a reference site's brand identity (colors, fonts, typography, spacing, logo, and UI components) as structured data before designing UI.
 
 ## Design Tools
 
