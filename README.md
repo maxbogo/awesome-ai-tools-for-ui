@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tool Count](https://img.shields.io/badge/Tool%20count-66-10b981?style=classic)
+![Tool Count](https://img.shields.io/badge/Tool%20count-67-10b981?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/maxbogo/awesome-ai-tools-for-ui?label=Last%20update&style=classic)](https://github.com/maxbogo/awesome-ai-tools-for-ui)
 
 </div>
@@ -113,6 +113,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Logosystem](https://logosystem.co/?utm_source=awesome-ai-tools-for-ui) - Curated logo inspiration gallery with 1,200+ static and animated logos.
 - [Ditther](https://www.ditther.com/?utm_source=awesome-ai-tools-for-ui) - Free browser tool for dither, halftone, ASCII, pixel, and video effects.
 - [Book of Shapes](https://bookofshapes.com/?tag=flow&utm_source=awesome-ai-tools-for-ui) - Collection of minimal, generative, and customizable SVG patterns.
+- [Texture Lab](https://orbital.supply/tools/texture-lab?utm_source=awesome-ai-tools-for-ui) - Free browser tool for halftone, engraving, stipple, dithering and ASCII textures, exported as PNG, HTML or React.
 
 ## Resources
 
