@@ -82,6 +82,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Brik](https://brik.space/?utm_source=awesome-ai-tools-for-ui) - Build your own AI-powered design tools for animations, 2D and 3D visuals, text effects, and images, then remix, share, export, and embed them.
 - [UIZZE](https://uizze.com) - AI-powered design research for better interfaces.
 - [Curio](https://designbycurio.com/?utm_source=awesome-ai-tools-for-ui) - Library of 1,000+ real design styles (Bauhaus, Memphis, brand and cultural traditions) as DESIGN.md token specs; hand one to Claude Code, Cursor or ChatGPT via a share link or MCP.
+- [CinePage by Imagera](https://imagera.ai/cinematic-page-builder?utm_source=awesome-ai-tools-for-ui) - AI web page builder that writes a full landing page from one brief in one of 13 named looks, places your photos, plays your clip as a background loop or scroll film, and exports one HTML file.
 
 
 ## MCP Servers & Plugins
