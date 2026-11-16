@@ -82,6 +82,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Brik](https://brik.space/?utm_source=awesome-ai-tools-for-ui) - Build your own AI-powered design tools for animations, 2D and 3D visuals, text effects, and images, then remix, share, export, and embed them.
 - [UIZZE](https://uizze.com) - AI-powered design research for better interfaces.
 - [Curio](https://designbycurio.com/?utm_source=awesome-ai-tools-for-ui) - Library of 1,000+ real design styles (Bauhaus, Memphis, brand and cultural traditions) as DESIGN.md token specs; hand one to Claude Code, Cursor or ChatGPT via a share link or MCP.
+- [PolyDraft](https://polydraft.ai/?utm_source=awesome-ai-tools-for-ui) - Generate a complete website from a prompt, preview it, and publish it to your own Cloudflare account.
 
 
 ## MCP Servers & Plugins
