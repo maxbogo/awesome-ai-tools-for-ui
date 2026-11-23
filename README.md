@@ -101,6 +101,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 
 > Not AI-powered, but valuable tools for UI/UX work.
 
+- [Free Image to Video](https://freeimagetovideo.ai/) — Free image to video AI with no daily cap: turn static UI designs and product visuals into motion clips with synchronized sound and no watermark.
 - [FontCrafter](https://arcade.pirillo.com/fontcrafter.html?utm_source=awesome-ai-tools-for-ui) - Turn your handwriting into an installable font in the browser. Exports OTF, TTF, WOFF2.
 - [SVG Loaders](https://magecdn.com/tools/svg-loaders?utm_source=awesome-ai-tools-for-ui) - 100+ open-source animated SVG loading spinners (MIT).
 - [SVG Backgrounds](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/?utm_source=awesome-ai-tools-for-ui) - Free SVG backgrounds and patterns you can customize.
