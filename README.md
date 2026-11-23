@@ -16,7 +16,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Tool Count](https://img.shields.io/badge/Tool%20count-66-10b981?style=classic)
+![Tool Count](https://img.shields.io/badge/Tool%20count-67-10b981?style=classic)
 [![Last Update](https://img.shields.io/github/last-commit/maxbogo/awesome-ai-tools-for-ui?label=Last%20update&style=classic)](https://github.com/maxbogo/awesome-ai-tools-for-ui)
 
 </div>
@@ -82,6 +82,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Brik](https://brik.space/?utm_source=awesome-ai-tools-for-ui) - Build your own AI-powered design tools for animations, 2D and 3D visuals, text effects, and images, then remix, share, export, and embed them.
 - [UIZZE](https://uizze.com) - AI-powered design research for better interfaces.
 - [Curio](https://designbycurio.com/?utm_source=awesome-ai-tools-for-ui) - Library of 1,000+ real design styles (Bauhaus, Memphis, brand and cultural traditions) as DESIGN.md token specs; hand one to Claude Code, Cursor or ChatGPT via a share link or MCP.
+- [OpenPencil](https://openpencil.dev/?utm_source=awesome-ai-tools-for-ui) - Design editor with a built-in AI assistant (your own provider key), MCP server, and CLI; opens and saves Figma .fig files, on desktop and web.
 
 
 ## MCP Servers & Plugins
