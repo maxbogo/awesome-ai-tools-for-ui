@@ -64,6 +64,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Hallmark](https://github.com/nutlope/hallmark?utm_source=awesome-ai-tools-for-ui) - Design skill for Claude Code, Cursor, and Codex that audits and generates UI against anti-slop design gates.
 - [Material Design 3 Skill](https://github.com/hamen/material-3-skill?utm_source=awesome-ai-tools-for-ui) - Portable Material Design 3 skill covering tokens, theming, 30+ components, responsive layout, and MD3 audits.
 - [Scandinavian Design Skill](https://github.com/ericzakariasson/scandinavian-design?utm_source=awesome-ai-tools-for-ui) - Cursor skill for applying a restrained Scandinavian visual system with monochrome color, sans-serif type, spacing, and product imagery.
+- [aiux Skills](https://www.aiuxdesign.guide/skills?utm_source=awesome-ai-tools-for-ui) - 38 free Claude Code skills, one per AI UX pattern, that teach your agent when a pattern applies and how to build it.
 
 ## Apps
 
