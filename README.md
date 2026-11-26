@@ -113,6 +113,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Logosystem](https://logosystem.co/?utm_source=awesome-ai-tools-for-ui) - Curated logo inspiration gallery with 1,200+ static and animated logos.
 - [Ditther](https://www.ditther.com/?utm_source=awesome-ai-tools-for-ui) - Free browser tool for dither, halftone, ASCII, pixel, and video effects.
 - [Book of Shapes](https://bookofshapes.com/?tag=flow&utm_source=awesome-ai-tools-for-ui) - Collection of minimal, generative, and customizable SVG patterns.
+- [CreoArt](https://creoart.app/photo-editor) - Free, ad-free client-side WebGPU PSD & layer editor paired with a pay-as-you-go 45-model AI image & video studio.
 
 ## Resources
 
