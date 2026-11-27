@@ -126,3 +126,4 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [aiux.courses](https://aiux.courses?utm_source=awesome-ai-tools-for-ui) - Independently curated AI UX sources and courses for working designers (patterns, papers, people, paid paths).
 - [Delightful frontend](https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4) - Practical techniques for steering AI toward polished frontend designs.
 - [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification?utm_source=awesome-ai-tools-for-ui) - UI spec for AI-assisted projects, covering tokens, component states, accessibility, and responsive design.
+- [AshuTeacher](https://ashuteacher.vercel.app) - Free AI-powered learning PWA & Android app with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
