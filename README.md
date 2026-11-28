@@ -113,6 +113,7 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [Logosystem](https://logosystem.co/?utm_source=awesome-ai-tools-for-ui) - Curated logo inspiration gallery with 1,200+ static and animated logos.
 - [Ditther](https://www.ditther.com/?utm_source=awesome-ai-tools-for-ui) - Free browser tool for dither, halftone, ASCII, pixel, and video effects.
 - [Book of Shapes](https://bookofshapes.com/?tag=flow&utm_source=awesome-ai-tools-for-ui) - Collection of minimal, generative, and customizable SVG patterns.
+- [PSD Layer & Alpha Inspector](https://huggingface.co/spaces/pandawander/psd-layer-and-alpha-inspector) - Free client-side browser tool to inspect 8-bit Adobe .PSD layer bounds/RGBA channels and highlight white-halo fringe on transparent PNGs (MIT, zero uploads).
 
 ## Resources
 
